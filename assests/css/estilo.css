@@ -1,0 +1,7 @@
+<body>{
+    margin: 150px 20px;
+}
+<cabecalho1>{
+    display: flex;
+    justify-content: space-between;
+}
