@@ -1,7 +1,18 @@
-<body>{
-    margin: 150px 20px;
+body{
+margin: 15 px 20px;
+
 }
-<cabecalho1>{
+.cabecalho1{
     display: flex;
     justify-content: space-between;
+}
+.cabecalho1 .figure_cabecalho1 img{
+    width: 50px;
+    height: 25px;
+}
+.cabecalho1 ul{
+ display: flex;
+ justify-content: space-evenly;
+ gap: 10px
+
 }
